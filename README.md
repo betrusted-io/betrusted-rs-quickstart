@@ -21,4 +21,4 @@ By participating in this project you agree to abide its terms.
 
 Copyright © 2019
 
-Licensed under the [CERN OHL v1.2](https://ohwr.org/project/licenses/wikis/cern-ohl-v1.2) [LICENSE](LICENSE)
+Licensed under the [Apache License 2.0](http://opensource.org/licenses/Apache-2.0) [LICENSE](LICENSE)
